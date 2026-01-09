@@ -154,4 +154,4 @@ Comprehensive augmentation strategy to improve model generalization:
 - **Batch Size**: 32
 - **Total Epochs**: 25
 - **Validation Split**: 20%
-!(face.png)
+![output](face.png)
